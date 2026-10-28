@@ -1,7 +1,5 @@
 Resolución del ejercicio N°2 de la unidad 4 d e programación 2.
-Aquí tienes un resumen completo y estructurado del diseño orientado a objetos planteado para el sistema de cálculo fiscal del Estudio Contable:
 
-1. Arquitectura del Sistema (Jerarquía y Polimorfismo)
 Clase Abstracta Trabador:
 
 Funciona como la raíz de la jerarquía y define el estado básico compartido por todos los trabajadores: nombre y cuil.
